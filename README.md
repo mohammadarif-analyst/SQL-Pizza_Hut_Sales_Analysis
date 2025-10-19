@@ -55,5 +55,5 @@ The project uses four main tables:
 
 ---
 
-## Folder Structure
+
 
